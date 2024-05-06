@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ¡Hola! Soy un estudiante universitario apasionado por el desarrollo backend. Me especializo en Java, especialmente en el framework Spring, y tengo experiencia en la creación de aplicaciones robustas y escalables.<br><br>Además de mis estudios, he trabajado con diversas bases de datos SQL, como MySQL, SQL Server y PostgreSQL. Me encanta explorar cómo diseñar y optimizar bases de datos para mejorar el rendimiento y la eficiencia de las aplicaciones.<br><br>También soy un entusiasta de Docker y su capacidad para simplificar el proceso de desarrollo y despliegue de aplicaciones. Utilizo Docker para mantener mis proyectos organizados y fácilmente reproducibles en diferentes entornos.<br><br>Como estudiante universitario, estoy comprometido con el aprendizaje continuo y estoy emocionado de explorar nuevas tecnologías y tendencias en el campo del desarrollo de software. Mi objetivo es combinar mi pasión por la programación con mi educación universitaria para convertirme en un desarrollador backend altamente competente y creativo.
 
 
